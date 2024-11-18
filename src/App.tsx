@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="justify-center flex">
-        <div className="grid grid-cols-1 gap-4">
+        <div className="grid grid-cols-1 gap-10">
             <div>
                 <h1 className="ml-0 m-5 text-7xl text-cyan-500">HTML 101</h1>
             </div>
